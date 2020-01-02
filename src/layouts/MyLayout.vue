@@ -26,7 +26,6 @@
           @click="$q.dark.isActive ? $q.dark.set(false) : $q.dark.set(true)"
           no-caps
         >
-          <q-badge color="red" floating transparent>new</q-badge>
         </q-btn>
       </q-toolbar>
       <router-view name="tabs" ref="mainTab"/>
