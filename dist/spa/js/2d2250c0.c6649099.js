@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d2250c0"],{e373:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("q-page",{attrs:{padding:""}},[t("div",[n._v("\n    Table Extensions\n  ")])])},s=[],l={},c=l,i=t("2877"),r=Object(i["a"])(c,a,s,!1,null,null,null);e["default"]=r.exports}}]);

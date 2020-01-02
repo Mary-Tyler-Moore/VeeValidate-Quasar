@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0decf2"],{"86db":function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("q-page",{attrs:{padding:""}},[n("div",{staticClass:"text-h4"},[t._v("Nested Routing Demo")])])},a=[],c={},d=c,i=n("2877"),l=Object(i["a"])(d,s,a,!1,null,null,null);e["default"]=l.exports}}]);
